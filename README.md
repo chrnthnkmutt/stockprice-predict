@@ -5,4 +5,4 @@ Hi devs, I would say that this would be the last repository in 2023 (which I cre
 
 More information/documentation will be include in this repository. Thank you
 
-Finally, I would like to give you to see the visualization from using Plotly Express [here](./stockprice.html)
+Finally, I would like to give you to see the visualization from using Plotly Express [here](stockprice.html)
